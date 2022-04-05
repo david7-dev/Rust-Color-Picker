@@ -1,4 +1,8 @@
 body {
+  background-color: black;
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +14,28 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.container{
+  padding-right: 6.5rem;
+  padding-left: 6.5rem;
+  padding-top: 3rem;
+  margin-right: auto;
+  margin-left: auto;
+  position: fixed;
+}
+
+.rustSC{
+  background-image: url("rust.jpg");
+  width: 300px;
+  height: 300px;
+}
+
+h2 {
+  color:rgb(211, 211, 211);
+  text-align: center;
+}
+
+b{
+  color: rgb(84, 84, 84);
 }
