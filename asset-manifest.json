@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Rust-Color-Picker/static/css/main.77ed4b79.css",
+    "main.js": "/Rust-Color-Picker/static/js/main.b262dd67.js",
+    "static/media/rust.jpg": "/Rust-Color-Picker/static/media/rust.b0dbee68334d60158cd9.jpg",
+    "static/media/bg.jpg": "/Rust-Color-Picker/static/media/bg.6fdfda52a2cd439b4f40.jpg",
+    "static/media/support2.png": "/Rust-Color-Picker/static/media/support2.6383bcbb725e0966ed46.png",
+    "index.html": "/Rust-Color-Picker/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.77ed4b79.css",
+    "static/js/main.b262dd67.js"
+  ]
+}
